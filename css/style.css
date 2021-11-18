@@ -7,6 +7,8 @@
 @import "./utilidades/tipografia.css";
 @import "./utilidades/cores.css";
 @import "./home/tecnologia.css";
+@import "./home/parceiros.css";
+@import "./home/depoimento.css";
 
 /* bicicletas */
 @import "./bicicletas/bicicletas-lista.css";
