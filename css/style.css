@@ -9,6 +9,10 @@
 @import "./home/tecnologia.css";
 @import "./home/parceiros.css";
 @import "./home/depoimento.css";
+@import "./home/footer.css";
 
 /* bicicletas */
 @import "./bicicletas/bicicletas-lista.css";
+
+/*seguros*/
+@import "./seguros/seguros.css";
