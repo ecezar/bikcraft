@@ -30,7 +30,7 @@
   transition: 0.3s; 
   position: absolute;
 }
-.header-menu a:hover:after{
+.header-menu a:hover::after, .header-menu a.ativo::after{
   content: "";
   display: block;
   margin-top: 4px;
