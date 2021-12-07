@@ -48,7 +48,7 @@
 }
 
 .orcamento-produto label {
-  font: 400 1rem/1.5 "Poppins" sans-serif;
+  font:400 1rem/1.5 "Poppins" sans-serif;
   color: var(--cor-4);
   background-color: var(--cor-10);
   display: grid;
@@ -58,6 +58,7 @@
   cursor: pointer;
   align-items: center;
   border: 1px solid var(--cor-10);
+  
 }
 
 .orcamento-produto input {
